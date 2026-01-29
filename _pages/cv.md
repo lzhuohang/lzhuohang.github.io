@@ -23,4 +23,4 @@ Research experience
 Honors & Awards
 ======
 * [2025.11] Comprehensive Excellence Award of Tsinghua University
-* [2024.11] Outstanding Volunteer Service Scholarship of Tsinghua University
+* [2024.11] Outstanding Volunteer Service Award of Tsinghua University
