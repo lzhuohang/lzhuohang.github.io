@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Beijing, China, Tsinghua University, 2022-present
+* B.S. in Department of Electronic Engineering, Tsinghua University, 2022-present
 
 Research experience
 ======
