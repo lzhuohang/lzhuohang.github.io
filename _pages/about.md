@@ -47,5 +47,5 @@ I will be a **Ph.D** student specializing in **Electronic Information** in 2026 
 
 
 # 💻 Internships
-- *2025.7 - 2025.8*, [kisilicon](https://www.kisilicon.com/)), Beijing,China.
-- *2025.10 - now*, [manifold-ai](https://manifoldai.cn/), Beijing,China.
+- *2025.7 - 2025.8*,  [kisilicon](https://www.kisilicon.com/), Beijing,China.
+- *2025.10 - now*,  [manifold-ai](https://manifoldai.cn/), Beijing,China.
