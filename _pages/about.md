@@ -25,7 +25,7 @@ I'm a fourth-year undergraduate student from [Department of Electronic Engineeri
 
 I'm very fortunate to be advised by [Prof.Yong Li](https://scholar.google.com/citations?&user=kmgzPeQAAAAJ) and be a member of [FIB LAB](https://fi.ee.tsinghua.edu.cn/).
 
-I will be a **PhD** student specializing in **Electronic Information** in 2026 Fall.
+I will be a **Ph.D** student specializing in **Electronic Information** in 2026 Fall.
 
 
 
