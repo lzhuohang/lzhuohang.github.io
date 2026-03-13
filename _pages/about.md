@@ -34,7 +34,7 @@ I will be a **Ph.D** student specializing in **Electronic Information** in 2026 
 
 
 # 📝 Publications 
-- **[Arxiv]** [WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models](https://arxiv.org/abs/2602.08971), Yu Shang\*<sup>§</sup>, **Zhuohang Li**\*, Yiding Ma\*, Weikang Su\*, Xin Jin<sup>‡</sup>, Ziyou Wang<sup>‡</sup>, Lei Jin, Xin Zhang, Yinzhou Tang, Haisheng Su, Chen Gao, Wei Wu, Xihui Liu, Dhruv Shah, Zhaoxiang Zhang, Zhibo Chen, Jun Zhu, Yonghong Tian, Tat-Seng Chua, Wenwu Zhu, Yong Li<sup>†</sup>
+- **[Arxiv]** [WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models](https://arxiv.org/abs/2602.08971),Yu Shang\*<sup>§</sup>, **Zhuohang Li**\*, Yiding Ma\*, Weikang Su\*, Xin Jin<sup>‡</sup>, Ziyou Wang<sup>‡</sup>, Lei Jin, Xin Zhang, Yinzhou Tang, Haisheng Su, Chen Gao, Wei Wu, Xihui Liu, Dhruv Shah, Zhaoxiang Zhang, Zhibo Chen, Jun Zhu, Yonghong Tian, Tat-Seng Chua, Wenwu Zhu, Yong Li<sup>†</sup>
 
 # 🎖 Honors and Awards
 - *2025.11* Comprehensive Excellence Award of Tsinghua University
