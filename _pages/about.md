@@ -35,7 +35,7 @@ I will be a **Ph.D** student specializing in **Electronic Information** in 2026 
 
 # 📝 Publications 
 - **[Arxiv]** [WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models](https://arxiv.org/abs/2602.08971),         Yu Shang\*<sup>§</sup>, **Zhuohang Li**\*, Yiding Ma\*, Weikang Su\*, Xin Jin<sup>‡</sup>, Ziyou Wang<sup>‡</sup>, Lei Jin, Xin Zhang, Yinzhou Tang, Haisheng Su, Chen Gao, Wei Wu, Xihui Liu, Dhruv Shah, Zhaoxiang Zhang, Zhibo Chen, Jun Zhu, Yonghong Tian, Tat-Seng Chua, Wenwu Zhu, Yong Li<sup>†</sup>
-- **[IEEE Internet of Things Journal]**[Robust Localization based on Regularization with Adaptive Scaling: Model, Algorithm and Application](https://ieeexplore.ieee.org/document/11435433), Weixiang Chen, Tengfei Wang\*, **Zhuohang Li**, Mingquan Lu
+- **[IEEE Iotj]**[Robust Localization based on Regularization with Adaptive Scaling: Model, Algorithm and Application](https://ieeexplore.ieee.org/document/11435433), Weixiang Chen, Tengfei Wang\*, **Zhuohang Li**, Mingquan Lu
 
 # 🏆 Competition Awards
 - **Third Prize(5th Place)** The 6th Intelligent Unmanned Aerial Vehicle Challenge in Tsinghua University, **2024.12**
