@@ -34,7 +34,8 @@ I will be a **Ph.D** student specializing in **Electronic Information** in 2026 
 
 
 # 📝 Publications 
-- **[Arxiv]** [WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models](https://arxiv.org/abs/2602.08971),         Yu Shang\*<sup>§</sup>, **Zhuohang Li**\*, Yiding Ma\*, Weikang Su\*, Xin Jin<sup>‡</sup>, Ziyou Wang<sup>‡</sup>, Lei Jin, Xin Zhang, Yinzhou Tang, Haisheng Su, Chen Gao, Wei Wu, Xihui Liu, Dhruv Shah, Zhaoxiang Zhang, Zhibo Chen, Jun Zhu, Yonghong Tian, Tat-Seng Chua, Wenwu Zhu, Yong Li<sup>†</sup>
+- **[Arxiv]** [WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform](https://arxiv.org/abs/2605.17912),         Yu Shang\*, Yinzhou Tang\*, Yiding Ma\*, **Zhuohang Li**\*, Lei Jin\*, Weikang Su\*, Xin Jin, Zhaolu Wang, Ziyou Wang, Xin Zhang, Haisheng Su, Weizhen He, Wei Wu, Haoyi Duan, Gordon Wetzstein, Xihui Liu, Dhruv Shah, Zhaoxiang Zhang, Zhibo Chen, Jun Zhu, Yonghong Tian, Tat-Seng Chua, Wenwu Zhu, Chen Gao, Yong Li<sup>†</sup>
+- **[Arxiv]** [WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models](https://arxiv.org/abs/2602.08971),         Yu Shang\*, **Zhuohang Li**\*, Yiding Ma\*, Weikang Su\*, Xin Jin, Ziyou Wang, Lei Jin, Xin Zhang, Yinzhou Tang, Haisheng Su, Chen Gao, Wei Wu, Xihui Liu, Dhruv Shah, Zhaoxiang Zhang, Zhibo Chen, Jun Zhu, Yonghong Tian, Tat-Seng Chua, Wenwu Zhu, Yong Li<sup>†</sup>
 - **[IEEE Iotj]**[Robust Localization based on Regularization with Adaptive Scaling: Model, Algorithm and Application](https://ieeexplore.ieee.org/document/11435433), Weixiang Chen, Tengfei Wang\*, **Zhuohang Li**, Mingquan Lu
 
 # 🏆 Competition Awards
