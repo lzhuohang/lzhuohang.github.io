@@ -53,7 +53,7 @@ I will be a **Ph.D** student specializing in **Electronic Information** in 2026 
 
 # 📖 Educations
 - **2022.08 - 2026.06**, B.S. in Department of Electronic Engineering, Tsinghua University
-- **2026.08 - now**, P.H.D. in Department of Electronic Engineering, Tsinghua University 
+- **2026.08 - now**,     P.h.D. in Department of Electronic Engineering, Tsinghua University 
 
 
 
