@@ -45,6 +45,7 @@ I will be a **Ph.D** student specializing in **Electronic Information** in 2026 
 
 
 # 🥇 Scholarships and Honors
+- **2026.06** Excellent Graduate of Tsinghua University (Undergraduate) (top 15%)
 - **2025.12** Outstanding Student Leader Award of Tsinghua University Student Association of Science and Technology
 - **2025.11** Comprehensive Excellence Scholarship of Tsinghua University
 - **2024.11** Outstanding Student Leader Award of Tsinghua University Student Association of Science and Technology
