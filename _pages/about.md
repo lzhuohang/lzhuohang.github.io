@@ -35,56 +35,94 @@ I'm very fortunate to be advised by [Prof.Yong Li](https://scholar.google.com/ci
 
 # 📝 Publications
 
-<div class="publication-list">
-  <div class="publication-entry">
+<link rel="stylesheet" href="{{ '/assets/css/publications.css' | relative_url }}">
+<script src="{{ '/assets/js/publications.js' | relative_url }}" defer></script>
+<div class="publication-showcase">
+  <p class="publication-note">* Equal contribution. † Corresponding author. Co-first-author papers are <span>highlighted</span>.</p>
+  <div class="publication-filters" role="group" aria-label="Filter publications" hidden>
+    <button type="button" data-topic="all" aria-pressed="true">All <span>5</span></button>
+    <button type="button" data-topic="World Model" aria-pressed="false">World Model <span>4</span></button>
+    <button type="button" data-topic="World-Action Model" aria-pressed="false">World-Action Model <span>1</span></button>
+    <button type="button" data-topic="Benchmark" aria-pressed="false">Benchmark <span>2</span></button>
+    <button type="button" data-topic="Localization" aria-pressed="false">Localization <span>1</span></button>
+  </div>
+  <p class="publication-sr-only" role="status" aria-live="polite"></p>
+  <div class="publication-cards">
+  <article class="publication-card" data-topics="World Model,World-Action Model">
     <a class="publication-figure" href="{{ '/images/papers/uniwam-overview.png' | relative_url }}" aria-label="View UniW(A)M overview">
       <img src="{{ '/images/papers/uniwam-overview.png' | relative_url }}" alt="UniW(A)M overview" loading="lazy" decoding="async">
     </a>
     <div class="publication-text">
-      <p class="publication-title"><a href="https://arxiv.org/abs/2610.18697">UniW(A)M: A Unified Mixture-of-Experts Framework for World and World-Action Models</a></p>
+      <h3 class="publication-title"><a href="https://arxiv.org/abs/2610.18697">UniW(A)M: A Unified Mixture-of-Experts Framework for World and World-Action Models</a></h3>
       <p class="publication-authors">Jingbo Xu&#42;, Jianjie Fang&#42;, <strong>Zhuohang Li</strong>, Zihao Song, Zhaolu Wang, Xvyuan Liu, Xin Zhang, Haisheng Su, Yinzhou Tang, Chen Gao<sup>†</sup>, Wei Wu, Yong Li<sup>†</sup></p>
-      <p class="publication-venue">Arxiv</p>
+      <p class="publication-links"><a href="https://arxiv.org/abs/2610.18697">Paper</a> <span>/</span> <a href="https://arxiv.org/pdf/2610.18697">PDF</a></p>
+      <p class="publication-venue">Preprint</p>
+      <details class="publication-description" open>
+        <summary aria-label="Show or hide paper summary"><span class="publication-sr-only">Paper summary</span></summary>
+        <p>A unified mixture-of-experts framework for world prediction and action generation, with shared dynamics and adaptive action interfaces.</p>
+      </details>
     </div>
-  </div>
-  <div class="publication-entry">
+  </article>
+  <article class="publication-card" data-topics="World Model">
     <a class="publication-figure" href="{{ '/images/papers/caer-overview.png' | relative_url }}" aria-label="View CAER overview">
       <img src="{{ '/images/papers/caer-overview.png' | relative_url }}" alt="CAER overview" loading="lazy" decoding="async">
     </a>
     <div class="publication-text">
-      <p class="publication-title"><a href="https://arxiv.org/abs/2608.30897">CAER: Causal Action Effect Reweighting for World Model Training</a></p>
+      <h3 class="publication-title"><a href="https://arxiv.org/abs/2608.30897">CAER: Causal Action Effect Reweighting for World Model Training</a></h3>
       <p class="publication-authors">Jianjie Fang&#42;, Xvyuan Liu&#42;, Ziyou Wang, Rongze Tang, Zhaolu Wang, <strong>Zhuohang Li</strong>, Xin Zhang, Haisheng Su, Chen Gao<sup>†</sup>, Wei Wu, Xinlei Chen<sup>†</sup>, Yong Li<sup>†</sup></p>
-      <p class="publication-venue">Arxiv</p>
+      <p class="publication-links"><a href="https://arxiv.org/abs/2608.30897">Paper</a> <span>/</span> <a href="https://arxiv.org/pdf/2608.30897">PDF</a></p>
+      <p class="publication-venue">Preprint</p>
+      <details class="publication-description" open>
+        <summary aria-label="Show or hide paper summary"><span class="publication-sr-only">Paper summary</span></summary>
+        <p>An online training strategy that focuses supervision on regions causally affected by actions, improving action-conditioned world modeling.</p>
+      </details>
     </div>
-  </div>
-  <div class="publication-entry">
+  </article>
+  <article class="publication-card publication-featured" data-topics="World Model,Benchmark">
     <a class="publication-figure" href="{{ '/images/papers/worldarena-2-overview.png' | relative_url }}" aria-label="View WorldArena 2.0 overview">
       <img src="{{ '/images/papers/worldarena-2-overview.png' | relative_url }}" alt="WorldArena 2.0 overview" loading="lazy" decoding="async">
     </a>
     <div class="publication-text">
-      <p class="publication-title"><a href="https://arxiv.org/abs/2605.17912">WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform</a></p>
+      <h3 class="publication-title"><a href="https://arxiv.org/abs/2605.17912">WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform</a></h3>
       <p class="publication-authors">Yu Shang&#42;, Yinzhou Tang&#42;, Yiding Ma&#42;, <strong>Zhuohang Li</strong>&#42;, Lei Jin&#42;, Weikang Su&#42;, Xin Jin, Zhaolu Wang, Ziyou Wang, Xin Zhang, Haisheng Su, Weizhen He, Wei Wu, Haoyi Duan, Gordon Wetzstein, Xihui Liu, Dhruv Shah, Zhaoxiang Zhang, Zhibo Chen, Jun Zhu, Yonghong Tian, Tat-Seng Chua, Wenwu Zhu, Chen Gao, Yong Li<sup>†</sup></p>
-      <p class="publication-venue">Arxiv</p>
+      <p class="publication-links"><a href="https://arxiv.org/abs/2605.17912">Paper</a> <span>/</span> <a href="https://arxiv.org/pdf/2605.17912">PDF</a></p>
+      <p class="publication-venue">Preprint</p>
+      <details class="publication-description" open>
+        <summary aria-label="Show or hide paper summary"><span class="publication-sr-only">Paper summary</span></summary>
+        <p>A benchmark extending embodied world model evaluation across modality, functionality, and platform.</p>
+      </details>
     </div>
-  </div>
-  <div class="publication-entry">
+  </article>
+  <article class="publication-card publication-featured" data-topics="World Model,Benchmark">
     <a class="publication-figure" href="{{ '/images/papers/worldarena-framework.png' | relative_url }}" aria-label="View WorldArena functional evaluation framework">
       <img src="{{ '/images/papers/worldarena-framework.png' | relative_url }}" alt="WorldArena functional evaluation framework" loading="lazy" decoding="async">
     </a>
     <div class="publication-text">
-      <p class="publication-title"><a href="https://www.sciencedirect.com/science/article/pii/S2666651026000136">WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models</a></p>
+      <h3 class="publication-title"><a href="https://www.sciencedirect.com/science/article/pii/S2666651026000136">WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models</a></h3>
       <p class="publication-authors">Yu Shang&#42;, <strong>Zhuohang Li</strong>&#42;, Yiding Ma&#42;, Weikang Su&#42;, Xin Jin&#42;, Ziyou Wang&#42;, Lei Jin, Xin Zhang, Yinzhou Tang, Haisheng Su, Chen Gao, Wei Wu, Xihui Liu, Dhruv Shah, Zhaoxiang Zhang, Zhibo Chen, Jun Zhu, Yonghong Tian, Tat-Seng Chua, Wenwu Zhu, Yong Li<sup>†</sup></p>
-      <p class="publication-venue">AI Open</p>
+      <p class="publication-links"><a href="https://www.sciencedirect.com/science/article/pii/S2666651026000136">Paper</a> <span>/</span> <a href="https://arxiv.org/pdf/2602.08971">PDF</a> <span>/</span> <a href="https://arxiv.org/abs/2602.08971">arXiv</a></p>
+      <p class="publication-venue">AI Open · 2026</p>
+      <details class="publication-description" open>
+        <summary aria-label="Show or hide paper summary"><span class="publication-sr-only">Paper summary</span></summary>
+        <p>A unified benchmark measuring both perceptual quality and the functional utility of embodied world models as data engines, policy evaluators, and action planners.</p>
+      </details>
     </div>
-  </div>
-  <div class="publication-entry">
+  </article>
+  <article class="publication-card" data-topics="Localization">
     <a class="publication-figure" href="{{ '/images/papers/robust-localization-factor-graph.png' | relative_url }}" aria-label="View Traditional and RAS factor graph models">
       <img src="{{ '/images/papers/robust-localization-factor-graph.png' | relative_url }}" alt="Traditional and RAS factor graph models" loading="lazy" decoding="async">
     </a>
     <div class="publication-text">
-      <p class="publication-title"><a href="https://ieeexplore.ieee.org/document/11435433">Robust Localization based on Regularization with Adaptive Scaling: Model, Algorithm and Application</a></p>
-      <p class="publication-authors">Weixiang Chen, Tengfei Wang&#42;, <strong>Zhuohang Li</strong>, Mingquan Lu</p>
-      <p class="publication-venue">IEEE Iotj</p>
+      <h3 class="publication-title"><a href="https://ieeexplore.ieee.org/document/11435433">Robust Localization based on Regularization with Adaptive Scaling: Model, Algorithm and Application</a></h3>
+      <p class="publication-authors">Weixiang Chen, Tengfei Wang<sup>†</sup>, <strong>Zhuohang Li</strong>, Mingquan Lu</p>
+      <p class="publication-links"><a href="https://ieeexplore.ieee.org/document/11435433">Paper</a></p>
+      <p class="publication-venue">IEEE Internet of Things Journal · 2026</p>
+      <details class="publication-description" open>
+        <summary aria-label="Show or hide paper summary"><span class="publication-sr-only">Paper summary</span></summary>
+        <p>A robust localization method using regularization with adaptive scaling to suppress outlier-contaminated sensor measurements.</p>
+      </details>
     </div>
+  </article>
   </div>
 </div>
 

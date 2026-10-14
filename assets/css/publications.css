@@ -1,0 +1,36 @@
+/* All selectors are scoped to Publications; no global theme styles change. */
+.publication-showcase{margin:0 0 1.5em;font-family:Arial,Helvetica,sans-serif;font-size:14px;line-height:1.4;color:#111}
+.page__content .publication-showcase p{font-size:14px;margin:0;line-height:1.4}
+.publication-showcase .publication-note{margin:0 0 16px;font-size:13px}
+.publication-note span{background:#ffffe5}
+.publication-showcase .publication-filters{display:flex;justify-content:center;gap:8px;flex-wrap:wrap;margin:0 0 16px}
+.publication-showcase .publication-filters[hidden],.publication-showcase .publication-card[hidden]{display:none!important}
+.publication-filters button{font:12px/1.3 Arial,Helvetica,sans-serif;background:#fffaf5;border:1px solid #ddd0c3;border-radius:20px;color:#743611;padding:6px 13px;cursor:pointer}
+.publication-filters button span{display:inline-block;margin-left:4px;font-size:10px;padding:1px 5px;border-radius:10px;background:#ffecd7}
+.publication-filters button[aria-pressed="true"]{background:#ad711f;border-color:#81511a;color:white;box-shadow:0 2px 5px #0002}
+.publication-filters button[aria-pressed="true"] span{background:#ffffff30;color:#fff}
+.publication-filters button:hover{border-color:#ad711f}
+.publication-showcase .publication-cards{display:grid;gap:16px}
+.publication-showcase .publication-card{position:relative;display:grid;grid-template-columns:190px minmax(0,1fr);gap:36px;align-items:center;padding:24px 28px 24px 20px;min-height:202px;border:1px solid #d9d9d9;border-radius:8px;background:#fff}
+.publication-showcase .publication-featured{background:#ffffe5;border-color:#dddcc7}
+.publication-showcase .publication-figure{display:block;width:190px;max-width:100%;line-height:0;text-decoration:none}
+.publication-showcase .publication-figure img{display:block;width:190px!important;max-width:100%!important;height:136px!important;object-fit:contain;background:transparent;border-radius:0;box-shadow:none!important}
+.publication-showcase .publication-text{min-width:0;padding-right:13px}
+.page__content .publication-showcase .publication-title{font-size:14px;line-height:1.4;font-weight:600;letter-spacing:0;margin:0 0 3px;padding:0;border:0}
+.page__content .publication-showcase a{color:#cf7600;text-decoration:none}
+.page__content .publication-showcase a:hover{text-decoration:underline;color:#8f4b00}
+.publication-showcase .publication-authors{font-weight:400;color:#161616}
+.publication-showcase .publication-authors strong{font-weight:700}
+.publication-showcase sup{font-size:10px}
+.page__content .publication-showcase .publication-links{margin-top:3px}
+.publication-links span{color:#713d12}
+.page__content .publication-showcase .publication-venue{font-style:italic;font-weight:600;margin-top:1px}
+.publication-showcase .publication-description{margin-top:12px}
+.publication-showcase .publication-description summary{position:absolute;right:20px;top:29px;width:20px;height:22px;list-style:none;cursor:pointer;color:#7a3917;text-align:center;font-size:13px}
+.publication-description summary::-webkit-details-marker{display:none}
+.publication-description summary::after{content:'▸'}
+.publication-description[open] summary::after{content:'▾'}
+.publication-showcase .publication-sr-only{position:absolute!important;width:1px;height:1px;margin:-1px!important;padding:0;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
+.publication-showcase button:focus-visible,.publication-showcase a:focus-visible,.publication-showcase summary:focus-visible{outline:2px solid #ad711f;outline-offset:3px}
+@media(max-width:760px){.publication-showcase .publication-card{grid-template-columns:160px minmax(0,1fr);gap:22px;padding:20px 25px 20px 16px}.publication-showcase .publication-figure,.publication-showcase .publication-figure img{width:160px!important}.publication-showcase .publication-description summary{right:13px;top:23px}}
+@media(max-width:560px){.publication-showcase .publication-card{grid-template-columns:minmax(0,1fr);gap:16px;padding:20px}.publication-showcase .publication-figure{width:190px!important;justify-self:center}.publication-showcase .publication-figure img{width:190px!important;height:130px!important}.publication-showcase .publication-text{padding-right:0}.publication-showcase .publication-description summary{top:166px;right:12px}.publication-showcase .publication-title{padding-right:15px!important}.publication-showcase .publication-filters{justify-content:flex-start;gap:6px}.publication-filters button{padding:6px 10px;font-size:11px}}
