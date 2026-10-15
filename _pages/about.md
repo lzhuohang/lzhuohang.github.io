@@ -55,7 +55,7 @@ I'm very fortunate to be advised by [Prof.Yong Li](https://scholar.google.com/ci
     <div class="publication-text">
       <h3 class="publication-title"><a href="https://arxiv.org/abs/2610.18697">UniW(A)M: A Unified Mixture-of-Experts Framework for World and World-Action Models</a></h3>
       <p class="publication-authors">Jingbo Xu&#42;, Jianjie Fang&#42;, <strong>Zhuohang Li</strong>, Zihao Song, Zhaolu Wang, Xvyuan Liu, Xin Zhang, Haisheng Su, Yinzhou Tang, Chen Gao<sup>†</sup>, Wei Wu, Yong Li<sup>†</sup></p>
-      <p class="publication-links"><a href="https://arxiv.org/abs/2610.18697">Paper</a> <span>/</span> <a href="https://arxiv.org/pdf/2610.18697">PDF</a></p>
+      <p class="publication-links"><a href="https://arxiv.org/abs/2610.18697">Paper</a> </p>
       <p class="publication-venue">Preprint</p>
       <details class="publication-description" open>
         <summary aria-label="Show or hide paper summary"><span class="publication-sr-only">Paper summary</span></summary>
@@ -70,7 +70,7 @@ I'm very fortunate to be advised by [Prof.Yong Li](https://scholar.google.com/ci
     <div class="publication-text">
       <h3 class="publication-title"><a href="https://arxiv.org/abs/2608.30897">CAER: Causal Action Effect Reweighting for World Model Training</a></h3>
       <p class="publication-authors">Jianjie Fang&#42;, Xvyuan Liu&#42;, Ziyou Wang, Rongze Tang, Zhaolu Wang, <strong>Zhuohang Li</strong>, Xin Zhang, Haisheng Su, Chen Gao<sup>†</sup>, Wei Wu, Xinlei Chen<sup>†</sup>, Yong Li<sup>†</sup></p>
-      <p class="publication-links"> <a href="https://manifoldai-research.github.io/CAER/">Homepage</a> <span>/</span><a href="https://github.com/manifoldai-research/CAER.code">Code</a><span>/</span><a href="https://arxiv.org/abs/2608.30897">Paper</a> <span>/</span> <a href="https://arxiv.org/pdf/2608.30897">PDF</a></p>
+      <p class="publication-links"> <a href="https://manifoldai-research.github.io/CAER/">Homepage</a> <span>/</span><a href="https://github.com/manifoldai-research/CAER.code">Code</a><span>/</span><a href="https://arxiv.org/abs/2608.30897">Paper</a> </p>
       <p class="publication-venue">Preprint</p>
       <details class="publication-description" open>
         <summary aria-label="Show or hide paper summary"><span class="publication-sr-only">Paper summary</span></summary>
@@ -85,7 +85,7 @@ I'm very fortunate to be advised by [Prof.Yong Li](https://scholar.google.com/ci
     <div class="publication-text">
       <h3 class="publication-title"><a href="https://arxiv.org/abs/2605.17912">WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform</a></h3>
       <p class="publication-authors">Yu Shang&#42;, Yinzhou Tang&#42;, Yiding Ma&#42;, <strong>Zhuohang Li</strong>&#42;, Lei Jin&#42;, Weikang Su&#42;, Xin Jin, Zhaolu Wang, Ziyou Wang, Xin Zhang, Haisheng Su, Weizhen He, Wei Wu, Haoyi Duan, Gordon Wetzstein, Xihui Liu, Dhruv Shah, Zhaoxiang Zhang, Zhibo Chen, Jun Zhu, Yonghong Tian, Tat-Seng Chua, Wenwu Zhu, Chen Gao, Yong Li<sup>†</sup></p>
-      <p class="publication-links"><a href="https://arxiv.org/abs/2605.17912">Paper</a> <span>/</span> <a href="https://arxiv.org/pdf/2605.17912">PDF</a></p>
+      <p class="publication-links"><a href="https://worldarena2.github.io/">Homepage</a> <span>/</span><a href="https://github.com/WorldArena2/WorldArena-2.0">Code</a><span>/</span> <a href="https://arxiv.org/abs/2605.17912">Paper</a> </p>
       <p class="publication-venue">Preprint</p>
       <details class="publication-description" open>
         <summary aria-label="Show or hide paper summary"><span class="publication-sr-only">Paper summary</span></summary>
@@ -100,7 +100,7 @@ I'm very fortunate to be advised by [Prof.Yong Li](https://scholar.google.com/ci
     <div class="publication-text">
       <h3 class="publication-title"><a href="https://www.sciencedirect.com/science/article/pii/S2666651026000136">WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models</a></h3>
       <p class="publication-authors">Yu Shang&#42;, <strong>Zhuohang Li</strong>&#42;, Yiding Ma&#42;, Weikang Su&#42;, Xin Jin&#42;, Ziyou Wang&#42;, Lei Jin, Xin Zhang, Yinzhou Tang, Haisheng Su, Chen Gao, Wei Wu, Xihui Liu, Dhruv Shah, Zhaoxiang Zhang, Zhibo Chen, Jun Zhu, Yonghong Tian, Tat-Seng Chua, Wenwu Zhu, Yong Li<sup>†</sup></p>
-      <p class="publication-links"><a href="https://www.sciencedirect.com/science/article/pii/S2666651026000136">Paper</a> <span>/</span> <a href="https://arxiv.org/pdf/2602.08971">PDF</a> <span>/</span> <a href="https://arxiv.org/abs/2602.08971">arXiv</a></p>
+      <p class="publication-links"><a href="https://world-arena.ai/">Homepage</a> <span>/</span><a href="https://github.com/tsinghua-fib-lab/WorldArena">Code</a><span>/</span><a href="https://www.sciencedirect.com/science/article/pii/S2666651026000136">Paper</a> </p>
       <p class="publication-venue">AI Open · 2026</p>
       <details class="publication-description" open>
         <summary aria-label="Show or hide paper summary"><span class="publication-sr-only">Paper summary</span></summary>
