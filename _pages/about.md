@@ -38,7 +38,7 @@ I'm very fortunate to be advised by [Prof.Yong Li](https://scholar.google.com/ci
 <link rel="stylesheet" href="{{ '/assets/css/publications.css' | relative_url }}">
 <script src="{{ '/assets/js/publications.js' | relative_url }}" defer></script>
 <div class="publication-showcase">
-  <p class="publication-note">* Equal contribution. † Corresponding author. Co-first-author papers are <span>highlighted</span>.</p>
+  <p class="publication-note">* Equal contribution. † Corresponding author. First-author papers are <span>highlighted</span>.</p>
   <div class="publication-filters" role="group" aria-label="Filter publications" hidden>
     <button type="button" data-topic="all" aria-pressed="true">All <span>5</span></button>
     <button type="button" data-topic="World Model" aria-pressed="false">World Model <span>4</span></button>
