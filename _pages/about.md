@@ -70,7 +70,7 @@ I'm very fortunate to be advised by [Prof.Yong Li](https://scholar.google.com/ci
     <div class="publication-text">
       <h3 class="publication-title"><a href="https://arxiv.org/abs/2608.30897">CAER: Causal Action Effect Reweighting for World Model Training</a></h3>
       <p class="publication-authors">Jianjie Fang&#42;, Xvyuan Liu&#42;, Ziyou Wang, Rongze Tang, Zhaolu Wang, <strong>Zhuohang Li</strong>, Xin Zhang, Haisheng Su, Chen Gao<sup>†</sup>, Wei Wu, Xinlei Chen<sup>†</sup>, Yong Li<sup>†</sup></p>
-      <p class="publication-links"><a href="https://arxiv.org/abs/2608.30897">Paper</a> <span>/</span> <a href="https://arxiv.org/pdf/2608.30897">PDF</a></p>
+      <p class="publication-links"> <a href="https://manifoldai-research.github.io/CAER/">Homepage</a> <span>/</span><a href="https://github.com/manifoldai-research/CAER.code">Code</a><span>/</span><a href="https://arxiv.org/abs/2608.30897">Paper</a> <span>/</span> <a href="https://arxiv.org/pdf/2608.30897">PDF</a></p>
       <p class="publication-venue">Preprint</p>
       <details class="publication-description" open>
         <summary aria-label="Show or hide paper summary"><span class="publication-sr-only">Paper summary</span></summary>
