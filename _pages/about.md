@@ -100,7 +100,7 @@ I'm very fortunate to be advised by [Prof.Yong Li](https://scholar.google.com/ci
     <div class="publication-text">
       <h3 class="publication-title"><a href="https://www.sciencedirect.com/science/article/pii/S2666651026000136">WorldArena: A Unified Benchmark for Evaluating Perception and Functional Utility of Embodied World Models</a></h3>
       <p class="publication-authors">Yu Shang&#42;, <strong>Zhuohang Li</strong>&#42;, Yiding Ma&#42;, Weikang Su&#42;, Xin Jin&#42;, Ziyou Wang&#42;, Lei Jin, Xin Zhang, Yinzhou Tang, Haisheng Su, Chen Gao, Wei Wu, Xihui Liu, Dhruv Shah, Zhaoxiang Zhang, Zhibo Chen, Jun Zhu, Yonghong Tian, Tat-Seng Chua, Wenwu Zhu, Yong Li<sup>†</sup></p>
-      <p class="publication-links"><a href="https://world-arena.ai/">Homepage</a> <span>/</span><a href="https://github.com/tsinghua-fib-lab/WorldArena">Code</a><span>/</span><a href="https://www.sciencedirect.com/science/article/pii/S2666651026000136">Paper</a> </p>
+      <p class="publication-links"><a href="https://world-arena.ai/v1">Homepage</a> <span>/</span><a href="https://github.com/tsinghua-fib-lab/WorldArena">Code</a><span>/</span><a href="https://www.sciencedirect.com/science/article/pii/S2666651026000136">Paper</a> </p>
       <p class="publication-venue">AI Open · 2026</p>
       <details class="publication-description" open>
         <summary aria-label="Show or hide paper summary"><span class="publication-sr-only">Paper summary</span></summary>
