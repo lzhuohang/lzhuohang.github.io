@@ -84,7 +84,7 @@ I'm very fortunate to be advised by [Prof.Yong Li](https://scholar.google.com/ci
     </a>
     <div class="publication-text">
       <h3 class="publication-title"><a href="https://arxiv.org/abs/2605.17912v2">WorldArena 2.0: Extending Embodied World Model Benchmarking on Modality, Functionality and Platform</a></h3>
-      <p class="publication-authors"><strong>Zhuohang Li</strong>&#42, Yiding Ma&#42, Yu Shang&#42, Lei Jin&#42, Shengyuan Wang, Jianjie Fang, Zhaolu Wang, Xvyuan Liu, Yinzhou Tang, Xin Jin, Ziyou Wang, Weikang Su, Xin Zhang, Haisheng Su, Weizhen He, Wei Wu, Haoyi Duan, Gordon Wetzstein, Xihui Liu, Dhruv Shah, Zhaoxiang Zhang, Zhibo Chen, Jun Zhu, Yonghong Tian, Tat-Seng Chua, Xin Wang, Wenwu Zhu, Chen Gao<sup>†</sup>, Yong Li<sup>†</sup></p>
+      <p class="publication-authors"><strong>Zhuohang Li</strong>&#42;, Yiding Ma&#42;, Yu Shang&#42;, Lei Jin&#42;, Shengyuan Wang, Jianjie Fang, Zhaolu Wang, Xvyuan Liu, Yinzhou Tang, Xin Jin, Ziyou Wang, Weikang Su, Xin Zhang, Haisheng Su, Weizhen He, Wei Wu, Haoyi Duan, Gordon Wetzstein, Xihui Liu, Dhruv Shah, Zhaoxiang Zhang, Zhibo Chen, Jun Zhu, Yonghong Tian, Tat-Seng Chua, Xin Wang, Wenwu Zhu, Chen Gao<sup>†</sup>, Yong Li<sup>†</sup></p>
       <p class="publication-links"><a href="https://world-arena.ai/">Homepage</a> <span>/</span><a href="https://github.com/WorldArena2/WorldArena-2.0">Code</a><span>/</span> <a href="https://arxiv.org/abs/2605.17912v2">Paper</a> </p>
       <p class="publication-venue">Preprint</p>
       <details class="publication-description" open>
